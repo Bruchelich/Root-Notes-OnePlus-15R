@@ -25,3 +25,7 @@ Bootloader already unlocked?
 - .\fastboot getvar current-slot
 - .\fastboot flash init_boot_a kernelsu_next_patched_<date>.img
 - .\fastboot reboot
+
+
+modules:
+- HMA-OSS + Zygisk next + AlwaysStrong
